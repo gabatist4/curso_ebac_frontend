@@ -13,6 +13,7 @@ body {
 #taskList li, button {
     cursor: pointer;
     margin: 8px;
+    text-align: left;
 }
 
 #taskList li.completed {
